@@ -22,6 +22,7 @@
   * Data Science
   * Big Data
   * Distributed Systems
+  * Public Speaking / Education
 
 ### Employment
 
@@ -38,6 +39,8 @@
 * BA Astrophysics, Physics, Theater Arts and Perforance Studies - UC Berkeley - 2007
 
 ### Random Notables
+* 2020 - [Unchained Capital Webinar](https://youtu.be/wiJqbLL2v_Y)
+* 2018 - Organized Tucson Blockchain Devs Meetup - [Slides](https://www.slideshare.net/DestrySaul/)
 * 2018 - Wrote a secure Ethereum multisig smart contract - [Audit Blog Post](https://medium.com/@hosho/auditing-the-unchained-capital-smart-contract-ac2d7ecea373)
 * 2017/2018 - Bitcoin [HODL Waves](https://unchained-capital.com/blog/hodl-waves-1/) analytics
 * 2016 - 2nd place in Cisco internal data science competition
