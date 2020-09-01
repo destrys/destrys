@@ -30,7 +30,7 @@ with many open-source projects.
 * Designed and built a secure Ethereum application -
 [Audit Blog Post](https://medium.com/@hosho/auditing-the-unchained-capital-smart-contract-ac2d7ecea373)
 
-* Data Analytics of the bitcoin blockchain - [HODL Waves](https://unchained-capital.com/blog/hodl-waves-1/)
+* Data analytics of the bitcoin blockchain - [HODL Waves](https://unchained-capital.com/blog/hodl-waves-1/)
 
 
 ### Online Instructor @ O'Reilly Media - 2018 - 2019
@@ -39,7 +39,7 @@ with many open-source projects.
 
 ### Big Data / Data Science Consultant - 2017
 
-* developed and deployed a big data product for analyzing customer web traffic
+* Developed and deployed a big data product for analyzing customer web traffic
 
 * Batch processing with Spark
 
@@ -51,7 +51,7 @@ with many open-source projects.
 
 * Focused on Cisco's vast services operations
 
-* Big Data engineering with Spark
+* Big data engineering with Spark
 
 * NLP on customer interactions to find sentiment and inefficiencies
 
