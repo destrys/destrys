@@ -4,6 +4,7 @@
 
 * Bitcoin / Blockchain
 * Data Problems
+* Solution Engineering
 * Astronomy
 * Diversity, Equity, and Inclusion
 
@@ -12,16 +13,22 @@
 * Languages
   * Python
   * JavaScript
-  * Solidity
   * Scala
   * Ruby
   * [IDL](https://en.wikipedia.org/wiki/IDL_(programming_language))
+
+* Technologies/Frameworks
+  * React & Material-UI
+  * ELK stack
+  * Spark / Hive / Hadoop
+  * Docker, Ansible, Chef, AWS
   
 * Topics
   * Bitcoin / Blockchain
   * Data Science
   * Big Data
   * Distributed Systems
+  * Solution engineering
   * Public Speaking / Education
 
 ### Employment
@@ -40,11 +47,12 @@
 
 ### Random Notables
 * 2020 - [Unchained Capital Webinar](https://youtu.be/wiJqbLL2v_Y)
+* 2019 - SXSW Speaker - "The Arsenal Of A Blockchain Developer"
 * 2018 - Organized Tucson Blockchain Devs Meetup - [Slides](https://www.slideshare.net/DestrySaul/)
 * 2018 - Wrote a secure Ethereum multisig smart contract - [Audit Blog Post](https://medium.com/@hosho/auditing-the-unchained-capital-smart-contract-ac2d7ecea373)
 * 2017/2018 - Bitcoin [HODL Waves](https://unchained-capital.com/blog/hodl-waves-1/) analytics
 * 2016 - 2nd place in Cisco internal data science competition
-* 2013 - sucessfull Google interview (I declined due to lack of remote option)
+* 2013 - successfull Google interview (I declined due to lack of remote option)
 
 ### Refereed First-Author Papers
 
@@ -54,17 +62,6 @@
 ### Contact Me
 Questions, Comments, and Employment: destrys at gmail
 
-<!--
-**destrys/destrys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Resume](resume.pdf)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Generic Cover Letter](cover_letter.pdf)
