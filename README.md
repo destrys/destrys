@@ -62,6 +62,6 @@
 ### Contact Me
 Questions, Comments, and Employment: destrys at gmail
 
-[Resume](https://github.com/destrys/destrys/blob/main/resume.pdf)
+[Resume](https://github.com/destrys/destrys/raw/main/resume.pdf)
 
 [Generic Cover Letter](https://github.com/destrys/destrys/blob/main/cover_letter.pdf)
