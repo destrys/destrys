@@ -15,7 +15,7 @@ geometry:
     - heightrounded    
 ---
 
-# Destry Saul
+# Destry R. Saul, Ph.D.
 
 destrys@gmail.com  
 [github.com/destrys](https://github.com/destrys)  
@@ -23,21 +23,20 @@ linkedin.com/in/destry/
 
 ## Experience
 
-### Senior Engineer @ Unchained Capital, Inc. - 2016 -
+### Senior Engineer @ Unchained Capital, Inc. - 2016 - 2020
 
 As the first employee at Unchained Capital, I designed and built a web
 platform for securing and transacting with Bitcoin. Our novel product
 enabled our customers to collaboratively secure their bitcoin
 in vaults and to use their bitcoin as collateral for loans.
 I worked extensively on our transaction modeling, blockchain monitoring,
-and keystore integrations.
-I needed to learn a large amount about a new and fast-moving industry
-with many open-source projects.
+and keystore integrations. I was drawn to this project by the
+big unknowns, the fast pace, and the many open-source projects.
 
-* Python back-end, JavaScript React & Material-UI front-end
-* Represented the company at conferences and presented technical talks
+* Python backend, JavaScript React & Material-UI frontend
+* Gave technical talks and ran workshops at conferences (SXSW 2019)
 * Designed and built a secure Ethereum application -
-[Audit Blog Post](https://medium.com/@hosho/auditing-the-unchained-capital-smart-contract-ac2d7ecea373)
+[Security Audit Blog Post](https://medium.com/@hosho/auditing-the-unchained-capital-smart-contract-ac2d7ecea373)
 * Data analytics of the bitcoin blockchain - [HODL Waves](https://unchained-capital.com/blog/hodl-waves-1/)
 
 ### Online Instructor @ O'Reilly Media - 2018 - 2019
