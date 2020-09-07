@@ -1,0 +1,19 @@
+% https://jdhao.github.io/2019/05/30/markdown2pdf_pandoc/
+\usepackage{framed}
+\usepackage{quoting}
+
+\definecolor{bgcolor}{HTML}{DADADA}
+\colorlet{shadecolor}{bgcolor}
+% define a new environment shadedquotation. You can change leftmargin and
+% rightmargin as you wish.
+\newenvironment{shadedquotation}
+ {\begin{shaded*}
+  \quoting[leftmargin=2em, rightmargin=2em, vskip=1em, font=itshape]
+ }
+ {\endquoting
+ \end{shaded*}
+ }
+
+%
+\def\quote{\shadedquotation}
+\def\endquote{\endshadedquotation}
