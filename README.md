@@ -2,11 +2,13 @@
 
 ### Interests
 
-* Bitcoin / Blockchain
 * Data Problems
 * Solution Engineering
 * Astronomy
 * Diversity, Equity, and Inclusion
+* Hand tool woodworking
+* Snowboarding
+* Scotland
 
 ### Skills I've been paid for
 
