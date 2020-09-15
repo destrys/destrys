@@ -17,7 +17,7 @@ geometry:
 
 # Destry R. Saul, Ph.D.
 
-destrys@gmail.com  
+destry@hamdensaul.solutions  
 [github.com/destrys](https://github.com/destrys)  
 linkedin.com/in/destry/  
 

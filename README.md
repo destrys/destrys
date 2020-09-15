@@ -62,7 +62,7 @@
 * [Dust-to-gas ratios of the GALFA-H I Compact Cloud Catalog](https://academic.oup.com/mnras/article/441/3/2266/1104895)
 
 ### Contact Me
-Questions, Comments, and Employment: destrys at gmail
+Questions, Comments, and Employment: destry@hamdensaul.solutions
 
 [Resume](https://github.com/destrys/destrys/raw/main/resume.pdf)
 
