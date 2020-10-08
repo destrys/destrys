@@ -27,7 +27,7 @@ linkedin.com/in/destry/
 >  But the best thing about them is that they can tell you in ten minutes
 >  if a project isn't possible.
 
-This quote sums up what I bring to table: no problem is too complex,
+This quote sums up what I bring to the table: no problem is too complex,
 no data are too dirty, but if there is something fundamentally wrong
 with a project, I will spot it. I love working on projects that haven't
 been done before and where Googling won't find you an answer.
