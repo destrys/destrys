@@ -15,9 +15,7 @@ Email me at destry@hamdensaul.solutions.
 Embed me in your existing team or ask for a standalone deliverable.
 
 * Languages: Python, JavaScript, Ruby, Scala, [IDL](https://en.wikipedia.org/wiki/IDL_(programming_language)), C# (for game dev), Elixir (coming soon), Rust (coming soon)
-
 * GitOps: AWS, GCP, Docker, Kubernetes, ArgoCD, Ansible, Chef, GitLab CI, GitHub Actions
-  
 * Software Architecture, Big Data, Distributed Systems, Solution Engineering
 
 ### Code/Project/Team Audits
