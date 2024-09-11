@@ -30,10 +30,10 @@ I'm a helpful lead and mentor.
 
 ## Portfolio
 
-* **Code** [An IVOA Publishing Registry for NOIRLab](https://gitlab.com/nsf-noirlab/csdc/vo-services/templates/vo-registry)
-* **Org Audit** NOIRLab's [Community Science and Data Center](https://noirlab.edu/science/programs/csdc)
-* **Team Coaching** [Madden Media Voyage](https://maddenmedia.com/destination-intelligence/voyage/)
-* **Code** [Bitcoin Address Manipulation Warning](https://github.com/destrys/address_manipulation/blob/main/address.ipynb)
+* **Code** - [An IVOA Publishing Registry for NOIRLab](https://gitlab.com/nsf-noirlab/csdc/vo-services/templates/vo-registry)
+* **Org Audit** - NOIRLab's [Community Science and Data Center](https://noirlab.edu/science/programs/csdc)
+* **Team Coaching** - [Madden Media Voyage](https://maddenmedia.com/destination-intelligence/voyage/)
+* **Code** - [Bitcoin Address Manipulation Warning](https://github.com/destrys/address_manipulation/blob/main/address.ipynb)
 
 ## Employment History
 
@@ -56,9 +56,8 @@ I'm a helpful lead and mentor.
 * 2019 - SXSW Speaker - "The Arsenal Of A Blockchain Developer"
 * 2018 - Organized Tucson Blockchain Devs Meetup - [Slides](https://www.slideshare.net/DestrySaul/)
 * 2018 - Wrote a secure Ethereum multisig smart contract - [Audit Blog Post](https://medium.com/@hosho/auditing-the-unchained-capital-smart-contract-ac2d7ecea373)
-* 2017/2018 - Bitcoin [HODL Waves](https://unchained-capital.com/blog/hodl-waves-1/) analytics
 * 2016 - 2nd place in Cisco internal data science competition
-* 2013 - successfull Google interview (I declined due to lack of remote option)
+* 2013 - successful Google interview (declined due to lack of remote option)
 
 ## Refereed First-Author Papers
 
