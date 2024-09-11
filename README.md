@@ -30,8 +30,10 @@ I'm a helpful lead and mentor.
 
 ## Portfolio
 
-[An IVOA Publishing Registry for NOIRLab](https://gitlab.com/nsf-noirlab/csdc/vo-services/templates/vo-registry)
-[Bitcoin Address Manipulation Warning](https://github.com/destrys/address_manipulation/blob/main/address.ipynb)
+* **Code** [An IVOA Publishing Registry for NOIRLab](https://gitlab.com/nsf-noirlab/csdc/vo-services/templates/vo-registry)
+* **Org Audit** NOIRLab's [Community Science and Data Center](https://noirlab.edu/science/programs/csdc)
+* **Team Coaching** [Madden Media Voyage](https://maddenmedia.com/destination-intelligence/voyage/)
+* **Code** [Bitcoin Address Manipulation Warning](https://github.com/destrys/address_manipulation/blob/main/address.ipynb)
 
 ## Employment History
 
