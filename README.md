@@ -1,5 +1,6 @@
 # Destry R. Saul, Ph.D
 
+I am a solution-oriented agile leader and problem solver.
 I am available for consulting and contracting.
 Email me at destry@hamdensaul.solutions
 
@@ -13,7 +14,7 @@ Email me at destry@hamdensaul.solutions
 
 Embed me in your existing team or ask for a standalone deliverable.
 
-* Languages: Python, JavaScript, Ruby, Scala, [IDL](https://en.wikipedia.org/wiki/IDL_(programming_language)), C# (for game dev)
+* Languages: Python, JavaScript, Ruby, Scala, [IDL](https://en.wikipedia.org/wiki/IDL_(programming_language)), C# (for game dev), Elixir (coming soon), Rust (coming soon)
 
 * GitOps: AWS, GCP, Docker, Kubernetes, ArgoCD, Ansible, Chef, GitLab CI, GitHub Actions
   
@@ -66,6 +67,3 @@ I'm a helpful lead and mentor.
 ## Contact Me
 Questions, Comments, and Employment: destry@hamdensaul.solutions
 
-[//]: # [Resume](https://github.com/destrys/destrys/raw/main/resume.pdf)
-
-[//]: # [Generic Cover Letter](https://github.com/destrys/destrys/blob/main/cover_letter.pdf)
