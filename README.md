@@ -1,8 +1,8 @@
 # Destry R. Saul, Ph.D
 
-I am a solution-oriented agile leader and problem solver.
-I am available for consulting and contracting.
-Email me at destry@hamdensaul.solutions
+I am a solution-oriented agile leader and problem solver.  
+I am available for consulting and contracting.  
+Email me at destry@hamdensaul.solutions. 
 
 ## Services I Provide
 
